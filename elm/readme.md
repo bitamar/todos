@@ -1,0 +1,2 @@
+- `yarn client` runs the webpack dev server.
+- `yarn build` will create a webpack build and put the bundles in dist/.
